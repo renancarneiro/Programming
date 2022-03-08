@@ -1,0 +1,5 @@
+n = input()
+print(n.isspace())
+print(type(n))
+print(n.isupper())
+print(n.isalnum())
