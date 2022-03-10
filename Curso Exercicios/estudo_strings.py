@@ -4,12 +4,12 @@
 #transformações com replace()
 #upper() transforma a string em maiusculo
 #lower() transforma a string em minusculo
-#capitalize() transforma a primeira palavra da frase em maiusculo
-#title()
+#capitalize() transforma a primeira letra da frase em maiusculo
+#title() transforma a primeira letra de cada palavra em maiusculo
 #strip() elimina os espaços do inicio e fim das strings
 #junção com join()
 #split() divide a string em uma lista
-frase = 'curso em video python'
+frase = 'curso de python'
 print('len ->',len(frase))
 print('count(o)',frase.count('o'))
 print('find(deo)',frase.find('deo'))
