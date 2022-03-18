@@ -5,8 +5,10 @@
 #C) quantas mulheres tem menos de 20 anos.
 cont = cont_idade = cont_homens = cont_mulheres = 0
 while True:
+    sexo = ' '
     idade = int(input('Digite sua idade'))
-    sexo = input('Sexo: [M/F]?').strip().upper()[0]
+    while sexo not in 'MF':
+        sexo = input('Sexo: [M/F]?').strip().upper()[0]
     cont+=1
     if idade > 18:
         cont_idade+=1
