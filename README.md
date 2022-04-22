@@ -1,5 +1,4 @@
 # Programming
-Competitive Programming
 
 ## Beecrowd 
 É um site de programação competitiva, todos os desafios que consegui resolver estão na pasta
