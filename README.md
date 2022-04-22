@@ -6,3 +6,6 @@ Competitive Programming
 
 ## Curso Exercicios
 São meus estudos de programação, exercicios e projetos que faço.
+
+## Faculdade
+Testes, exemplos, atividades e projetos da faculdade
